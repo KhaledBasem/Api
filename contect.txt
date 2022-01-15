@@ -1,0 +1,13 @@
+public class ApplicationDbContext IdentityDbContextApplicationUser
+    {
+        public ApplicationDbContext(DbContextOptionsApplicationDbContext options)  base(options)
+        {
+
+        }
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
+
+    }
+}

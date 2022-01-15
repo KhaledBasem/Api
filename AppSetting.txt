@@ -1,0 +1,9 @@
+ "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefultConnection": "data source=(local); initial catalog=JwtAuth;Integrated Security=true"
+  },
+  "JWT": {
+    "SecretKey": "Kn.7DGmtD?Mz}JC9m]m.+v,g@$wNkXzK~bm4y3y,",
+    "ValidIssure": "https://localhost:5001",
+    "ValidAudience": "https://localhost:5001"
+  }
